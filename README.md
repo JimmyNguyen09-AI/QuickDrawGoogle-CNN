@@ -19,7 +19,7 @@ D key to turn on/off drawing
 Key A to change challenges
 P key to identify what you are drawing
 <p align="center">
-  <img src="readmesrd/ezgif-7-11411357af.gif" width=650><br/>
+  <img src="readmesrc/ezgif-7-11411357af.gif" width=650><br/>
   <i>Camera app demo</i>
 </p>
 
