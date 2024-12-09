@@ -16,7 +16,7 @@ After turning on the webcam, to use it, use your index finger to move and draw i
 * Press C to delete drawings.
 * Press D to turn on/off drawing
 * Press A to change challenges
-* Press Pkey to identify what you are drawing
+* Press P key to identify what you are drawing
 <p align="center">
   <img src="readmesrc/ezgif-7-11411357af.gif" width=650><br/>
   <i>Demo</i>
