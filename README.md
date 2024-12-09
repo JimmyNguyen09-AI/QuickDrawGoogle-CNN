@@ -2,8 +2,6 @@
  <h1 align="center">QuickDraw - Google</h1>
 </p>
 
-[![GitHub stars](https://img.shields.io/github/stars/uvipen/QuickDraw)](https://github.com/uvipen/QuickDraw/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/uvipen/QuickDraw?color=orange)](https://github.com/uvipen/QuickDraw/network)
 ## Introduction
 
 QuickDraw is a Python-based application inspired by Google's popular online game. This project provides an interactive way to draw objects using either a camera or a canvas.
